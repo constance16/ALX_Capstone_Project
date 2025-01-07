@@ -155,7 +155,7 @@ const CurrencySelector = () => {
           >
             <ArrowLeftRight className="w-4 h-4" />
           </motion.div>
-          Swap Currencies
+          Swap
         </motion.button>
       </div>
       </div>

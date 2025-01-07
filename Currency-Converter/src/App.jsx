@@ -3,7 +3,7 @@ import CurrencySelector from "./components/CurrencySelector";
 
 
 function App() {
-  return (<div cla >
+  return (<div >
     <CurrencySelector />
 
   </div>
